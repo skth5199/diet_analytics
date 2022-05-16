@@ -1,6 +1,8 @@
 # Diet data analysis
 This is my attempt at diet and nutrition data analysis.
 
+Blog: [Diet and Nutrition Data Analysis](https://skth5199.github.io/2022-05-15-Diet-Analytics/)
+
 ## Dataset used
 The dataset used for this was originally obtained from [MyFitnessPal](https://www.myfitnesspal.com/) and is also available on [Kaggle](https://www.kaggle.com/datasets/zvikinozadze/myfitnesspal-dataset).
 
